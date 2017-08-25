@@ -56,4 +56,8 @@ Temporary Items
 ### Vagrant ###
 .vagrant/
 
+*.log
+.aws
+synced/.aws/
+
 # End of https://www.gitignore.io/api/linux,macos,vagrant,terraform
